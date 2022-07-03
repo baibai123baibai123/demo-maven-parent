@@ -11,6 +11,7 @@ public class HelloTest {
     public void test() {
         Hello hello = new Hello();
         hello.show();
+        System.out.println("22222222222222222222222");
     }
 
 }
