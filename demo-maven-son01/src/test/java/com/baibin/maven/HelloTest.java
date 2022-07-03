@@ -15,6 +15,7 @@ public class HelloTest {
         System.out.println("333333333333333333333333");
         System.out.println("4444444444444444");
         System.out.println("master-test");
+        System.out.println("hot-test");
     }
 
 }
