@@ -19,7 +19,12 @@ public class HelloTest {
         System.out.println("push-test");
         System.out.println("pull-test");
         System.out.println("error-test");
-        System.out.println("error-test");System.out.println("error-test");System.out.println("error-test");System.out.println("error-test");System.out.println("error-test");
+        System.out.println("error-test");
+        System.out.println("error-test");
+        System.out.println("error-test");
+        System.out.println("error-test");
+        System.out.println("error-test");
+        System.out.println("001");
     }
 
 }
