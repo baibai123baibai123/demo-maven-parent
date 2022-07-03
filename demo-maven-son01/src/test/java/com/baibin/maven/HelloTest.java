@@ -17,7 +17,7 @@ public class HelloTest {
         System.out.println("master-test");
         System.out.println("hot-test");
         System.out.println("push-test");
-        System.out.println("111111111111111");
+        System.out.println("pull-test")
     }
 
 }
